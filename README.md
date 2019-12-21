@@ -1,2 +1,2 @@
 # Quotev-Spammer
-A simple tool to spam a Quotev accounts comment section
+A simple tool to spam a Quotev account comment section
